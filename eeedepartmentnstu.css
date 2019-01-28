@@ -25,20 +25,18 @@ p{
 
 
 
+.head{
+	}
 
 
 
 
-
-.head1{
+.head1 {
  text-align:center;
 font-size:18px;
-color:#fff;
  
 }
-
-  
-
+ 
 
 
 
@@ -72,6 +70,7 @@ nav {
 	font-size:11px;
 	 position:fixed;
 	z-index:99999;
+	 
 	
 }
 a { text-decoration:none }
@@ -305,21 +304,28 @@ nav .menu ul ul a:hover {
  
  .full_chairman{
 	 background-color:#040650; 
+	
  }
  
  .chairman {
 	   color:#fff;
+	 
  }
- .chairman h2 {
-	 margin-top:50px;
+ .chairman p{
+	 margin-bottom:100px;
 	 
 	  
+ }
+ .chairman h4 {
+	 margin-top:20px;
+	    
  }
  
  
  
  .chairman img{
 	max-width:100%; 
+	margin-bottom:35px;
  }	 
   
   
