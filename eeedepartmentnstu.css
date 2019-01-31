@@ -42,7 +42,8 @@ font-size:18px;
 
 
 
- 
+ .head_gap{
+ height:32px;}
 
 
 
@@ -329,82 +330,9 @@ nav .menu ul ul a:hover {
  }	 
   
   
- /*
- 
-    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 ">
-      <div class="newsfeed_h2"><h4><a href="#col1Content" data-toggle="collapse">NOTICE</a></h4></div>
-      <div class="newsfeed_div2">
-	 <p class="newsfeed_a"><a href=" "  >Quisque rutrum augue odio</a> </p>
-	 <p class="newsfeed_a"><a href=" "  >Vestibulum finibus, lacus at gravida</a></p>
-	 <p class="newsfeed_a"><a href=" "  >Donec at fringilla leoe</a></p>
-	 <p class="newsfeed_a"><a href=" "  >When in sm mode</a></p>
-	 <p class="newsfeed_a"><a href=" "  >UPCOMING 2019</a></p>
-	 </div>
-	 </div>
-    <!-- When in sm mode the 3rd column jumps up below the 2nd column. To fix it put the following right before the column that messes up using the screen mode being sm that messes up. -->
-    <div class="clearfix visible-sm"></div>
-    
- 
-   <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 ">
-   <div class="newsfeed_h3"><h4><a href=" " data-toggle="collapse">UPCOMING EVENT</a></h4></div>
- 
-       <div class="newsfeed_div3">
-	 <p class="newsfeed_a"><a href=" "  >Quisque rutrum augue odio</a> </p>
-	 <p class="newsfeed_a"><a href=" "  >Vestibulum finibus, lacus at gravida</a></p>
-	 <p class="newsfeed_a"><a href=" "  >Donec at fringilla leoe</a></p>
-	 <p class="newsfeed_a"><a href=" "  >When in sm mode</a></p>
-	 <p class="newsfeed_a"><a href=" "  >UPCOMING 2019</a></p>
-	 </div>
-	   </div>
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   css      
-	   css      
-	   css      
-	   css      
-	   css
-
-
- .newsfeed_div2{
-	 background-color: #F6F3F3;
- }
- .newsfeed_div3{
-	 background-color:#FAFAFA;
- }
- 	
-
- .newsfeed_h2{
-  margin-top: 30px;
-  }
-   .newsfeed_h3{
-  margin-top:30px;
-  }
-
- .newsfeed_h2 h4{
-	 
-	 padding :10px;
-	 background-color:#A1F2A1; 
-	 margin-bottom:0px;
- }
- .newsfeed_h3 h4{
-	 padding :10px;
-	 background-color:#C3FEC3; 
-	 margin-bottom:0px;
- }
-
- 
-*/	   
-  
+ .chairman h2{
+	padding-top:20px;
+}
   
   
   .full_newsfeed{
