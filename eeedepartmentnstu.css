@@ -202,10 +202,14 @@ nav .menu ul ul a:hover {
 	
 
  /*Menu End-------------------------------------*/
- 
-.slider_full{
-	
-	
+  
+  .full_slider{
+	  background-color: #040650;
+  }
+  
+  
+  
+  
   
   
 /*Hyperlink decoration.Button Button Button Button Button Button*/
@@ -403,7 +407,7 @@ padding-top:15px;
 
 .full_about{
 	width:100%;
-	background-color:#040650;
+	background-color:#D4D4D4
 }
 
 .about{
