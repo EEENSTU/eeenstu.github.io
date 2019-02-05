@@ -19,21 +19,16 @@ p{
 }
 
 
+ 
 
-
-
-
-
-
-.head{
-	}
-
-
-
-
-.head1 {
+.head h1 {
+  
+font-size:200%;
+ 
+}
+ .head  p {
  text-align:center;
-font-size:18px;
+ 
  
 }
  
@@ -57,6 +52,7 @@ font-size:18px;
 }
 .nav_logo img{
 	width: 55%;
+	border-radius: 10px;
 }
 
 
@@ -69,8 +65,7 @@ nav {
 	background: #f4f4f4;
 	font-family: tahoma;
 	font-size:11px;
-	 position:fixed;
-	z-index:99999;
+ 	z-index:99999;
 	 
 	
 }
