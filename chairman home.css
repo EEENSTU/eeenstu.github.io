@@ -1,0 +1,159 @@
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Coiny|Felipa|Fjalla+One|Lobster|Miss+Fajardose|Pacifico|Playfair+Display|Satisfy|Teko');
+*{margin:0;padding:0;border: 0;text-align:justify}
+
+
+body{
+	background-color:#FFFFF;
+}
+
+a{
+	text-decoration:none;
+}
+p{
+	text-align:justify;
+}
+.full_wrap{
+	width:100%
+}
+ .wrap{
+	width:960px;
+	display:block;
+	margin:0 auto
+}
+
+
+
+
+
+
+
+.fm_chairman_box1 {
+	border:1px solid #052657;
+ padding-bottom:20px;
+ line-height: 25px;
+letter-spacing: -1px;
+    font-family: Georgia ;
+}
+ 
+ 
+.fm_chairman_box1 img {
+	float:left;
+	padding:10px;
+	width: 120px;
+	 
+}
+
+.fm_chairman_box1 h1 {
+	font-size: 33px; 
+	color:#052657;
+	margin-top: 14px;
+    margin-bottom: 40px;
+	
+}
+
+.fm_chairman_box2 {
+	border-left:1px solid #052657;
+	border-right:1px solid #052657;
+    padding-bottom:275px; 
+	
+}
+ .fm_chairman_box2_1{
+	 font-size: 15px;
+ 	 width: 700px;
+	float:left;
+	 
+	 
+}
+
+.fm_chairman_box2_1 img{
+	width:100px;
+width: 140px;
+padding: 6px;
+float:right;
+	 
+}
+ 
+ 
+.fm_chairman_box2_1_bio{
+
+	float:left;
+ margin-left: 55px;
+}
+ .fm_chairman_box2_2{
+	 float:right;
+ 
+ }
+ 
+
+  .fm_chairman_box2_2 p{
+ font-family: arial;
+font-size: 20px;
+    padding: 0px 21px 0px;
+	text-align:center;
+	margin: 3px;
+	margin-top:0px;
+	background:#052657;
+
+}
+
+
+ .fm_chairman_box2_2 a {
+ color:#fff;
+ 
+ }	
+
+
+ .fm_chairman_box2_2 a:hover{
+	color: #052657;
+ background:#fff;
+  
+ }	
+ 
+ .fm_chairman_box3{
+ border:1px solid #052657; 
+padding: 8px 15px 100px;
+font-family: -apple-system 
+     font-size: 17px;
+}
+ 
+.fm_chairman_box3{
+	padding-bottom:0px;
+}
+table{
+	 
+	margin-top:30px;
+	margin-bottom:35px;
+	
+}
+h2{
+	text-align:center;
+	color:#01B0D1;
+	line-height: 25px;
+letter-spacing: -1px;
+    font-family: 'teko',sans-serife ;
+}
+
+
+
+
+
+
+
+
+
+/*
+
+	
+<tr class="fm_color1"> 
+<td valign="top">. </td><td> </td>
+ </tr> 
+<tr class="fm_color2"> 
+<td valign="top">. </td><td> </td>
+ </tr>
+ <tr class="fm_color3"> 
+<td valign="top">. </td><td> </td>
+</tr>
+
+
+*/
