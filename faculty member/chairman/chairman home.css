@@ -55,7 +55,7 @@ letter-spacing: -1px;
 .fm_chairman_box2 {
 	border-left:1px solid #052657;
 	border-right:1px solid #052657;
-    padding-bottom:275px; 
+    padding-bottom:10px; /*275*/
 	
 }
  .fm_chairman_box2_1{
@@ -81,7 +81,10 @@ float:right;
  margin-left: 55px;
 }
  .fm_chairman_box2_2{
-	 float:right;
+	 /*float:right;*/
+	   
+	overflow:hidden;
+	 
  
  }
  
