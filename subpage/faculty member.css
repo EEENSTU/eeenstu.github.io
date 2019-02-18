@@ -1,0 +1,22 @@
+*{margin:0;padding:0;border: 0}
+body{
+	background-color:#FFFFF;
+}
+
+a{
+	text-decoration:none;
+}
+p{
+	text-align:justify;
+}
+
+    
+
+.adminstration1 {
+	margin-top:100px;
+}
+
+
+.adminstration1 img{
+	max-width: 160px;
+}

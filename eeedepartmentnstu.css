@@ -24,6 +24,8 @@ p{
 .head h1 {
   
 font-size:200%;
+ margin-left: 8%;
+margin-right: 2%;
  
 }
  .head  p {
@@ -148,7 +150,7 @@ nav .menu li a:hover,
 nav .open-submenu:hover ,
 nav .open-submenu.active,
 nav .menu-toggle.active  {
-	background: #FFBB22;
+	background: #106E80;
 	transition: background-color .5s
 }
 nav .menu ul ul {
@@ -156,7 +158,7 @@ nav .menu ul ul {
 	display: none;
 	float: none;
 	position: absolute;
-	background: #FFBB22
+	background: #106E80
 }
 nav .menu ul ul li {
 	float: none;
@@ -188,7 +190,7 @@ nav .menu ul ul a:hover {
 		display:none
 	}
 	nav .menu ul ul a { background: transparent }
-	nav .menu ul ul a:hover { background: #FFBB22 }
+	nav .menu ul ul a:hover { background: #106E80 }
 }
 	
 
@@ -200,6 +202,8 @@ nav .menu ul ul a:hover {
    
   .full_slider{
 	  background-color: #040650;
+	  	   border   :2px solid #040650;
+	 
   }
   
    
@@ -265,15 +269,15 @@ nav .menu ul ul a:hover {
   
   
  
- 
+ /*
  .full_chairman{
 	 background-color:#040650; 
 	
  }
- 
+  */
  .chairman {
-	   color:#fff;
-	 
+	   /*color:#fff;   */
+
  }
  .chairman p{
 	 margin-bottom:100px;
