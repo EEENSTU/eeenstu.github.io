@@ -35,13 +35,7 @@ margin-right: 2%;
 }
  
 
-
-
-
-
- .head_gap{
- height:32px;}
-
+ 
 
 
 
@@ -200,12 +194,12 @@ nav .menu ul ul a:hover {
 
  /*Menu End-------------------------------------*/
    
-  .full_slider{
-	  background-color: #040650;
+ /* .full_slider{
+	  background-color: #fff;
 	  	   border   :2px solid #040650;
 	 
   }
-  
+  */
    
 /*Hyperlink decoration.Button Button Button Button Button Button*/
 .btn {
@@ -364,7 +358,96 @@ padding-top:15px;
 
 
 
+		
+	/*	
+ <div class="full_about">
+ 
+ 
+ 
+		
+ <div class="container">
+ 
+ <div class="row about">
+  
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+	  <div class=" about_eee ">
+	 
+	<div class="about_gap"></div>
+		
+      <a href=""><center><h3>About EEE</h3></center></a>
+		
 
+	  </div>
+	  </div>
+	  
+	  
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+	
+	<div class=" about_eee ">
+	       
+	<div class="about_gap"></div>
+	<a href=""><center><h3> Administration</h3></center> </a>
+		 
+	 </div>
+	 </div>
+	 
+
+
+	  <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+	<div class=" about_eee ">
+	
+	      
+	<div class="about_gap"></div>
+	<a href=""><center><h3>Research </h3></center> </a>
+      
+	
+      </div> 
+	  
+	 </div>
+	 
+	 
+	 
+	 
+	 
+	  <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+	
+   <div class="about_eee">
+	      
+	<div class="about_gap"></div>
+	<a href=""><center><h3>Mission and Vision </h3></center></a>
+      
+	  
+	 </div>
+	 
+	 
+	 </div>
+	 
+
+
+
+
+
+
+
+
+
+	 
+  </div>
+</div> 
+ 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</div>
+		
+	<!END_About>	
+	
 
 .full_about{
 	width:100%;
@@ -396,7 +479,7 @@ padding-top:15px;
  .about_eee a{
 	 color:#fff;
  }
- 
+ */
  
  
  
