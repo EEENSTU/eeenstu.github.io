@@ -10,11 +10,7 @@ p{
 	text-align:justify;
 }
 
-
-  tr,td{
-	 border:1px solid #FFF;
- }
-
+    
 
 .adminstration1 {
 	margin-top:100px;
@@ -23,7 +19,4 @@ p{
 
 .adminstration1 img{
 	max-width: 160px;
-}
-b{
-color:#fff;
 }
