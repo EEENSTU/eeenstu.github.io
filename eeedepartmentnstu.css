@@ -22,20 +22,31 @@ p{
 }
 
 
+ h1 a{
+	color:#000
+}
+
+
+
+
+
+h1 {
+	 
+ 
+letter-spacing: -1px;
+    font-family: Georgia ;
+}
  
 
+ 
+ 
+ 
 .head h1 {
   
 font-size:200%;
- margin-left: 8%;
-margin-right: 2%;
  
 }
- .head  p {
- text-align:center;
  
- 
-}
  
 
  
