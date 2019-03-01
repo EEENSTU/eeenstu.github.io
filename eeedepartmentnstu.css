@@ -216,7 +216,9 @@ margin-top:5px;
 border  : 2px solid#3A3A3A;	
 	
 }
-
+/*
+<script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
+*/   
 
 
 
@@ -283,21 +285,20 @@ border  : 2px solid#3A3A3A;
   */
  .chairman {
 	   /*color:#fff;   */
-
+ margin-bottom:100px;
+	
  }
  .chairman p{
-	 margin-bottom:100px;
 	 
 	  
  }
- .chairman h4 {
-	 margin-top:20px;
+ .chairman h5 {
 	    
  }
  
  
  
- .chairman amp-img{
+ .chairman  img{
 	max-width:100%; 
 	margin-bottom:35px;
  }	 
@@ -308,9 +309,7 @@ border  : 2px solid#3A3A3A;
 }
   
   
-  .full_newsfeed{
-  
- 
+  .full_newsfeed{ 
   background-color: #24438F; 
  } 
   
@@ -340,7 +339,7 @@ border  : 2px solid#3A3A3A;
 	 margin-bottom:0px;
 	 
     
-    font-family'Archivo Black', sans-serif;
+    font-family:'Archivo Black', sans-serif;
  
  }
 

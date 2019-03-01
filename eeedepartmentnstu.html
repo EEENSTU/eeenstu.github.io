@@ -19,12 +19,15 @@
 	<title>Official Website of EEE Department NSTU</title>
 		
 		
-    <link rel="stylesheet" href=" themes/default/default.css" type="text/css" media="screen" />
-    <link rel="stylesheet" href=" themes/light/light.css" type="text/css" media="screen" />
+   <link rel="stylesheet" href=" themes/light/light.css" type="text/css" media="screen" />
+     
+	 <!---
+	 <link rel="stylesheet" href=" themes/default/default.css" type="text/css" media="screen" />
     <link rel="stylesheet" href=" themes/dark/dark.css" type="text/css" media="screen" />
     <link rel="stylesheet" href=" themes/bar/bar.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
-     
+     --->
+		
 		
 		<link rel="stylesheet" href="css/bootstrap.css" />
  		 
@@ -40,17 +43,11 @@
 		
     <link rel="icon" href="img/eeeicon.png" type="image/png"/>
     <link rel="shortcut icon" href="img/eeeicon.ico" />
-	
-		
-		
-		
-    <script async src="https://cdn.ampproject.org/v0.js"></script>	
-		
+	 
+	 
 	</head>
 	<body>
-		<!-- Google Tag Manager -->
-<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-TQ23VBH&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
- 			
+	 	
 <div class="container">
     <div class="row  ">
   	    <div class="herotext col-md-12 col-sm-12" style="text-align:center; ">
@@ -213,12 +210,11 @@
 	   
 	   
 	   
-	   
 	<div class=" col-md-4 col-sm-6 "> 
-		<div class="chairman_img"> <amp-img src="img/Chairman.jpg" alt="" /> </amp-img> </div> 
+		<div class="chairman_img"> <img src="img/Chairman.jpg" alt="" /> </div> 
      </div>
 	 <div class=" col-md-8 col-sm-6">
-						<h4> Welcome to the website of Electrical and Electronic Engineering (EEE) Department of Noakhali Science and Technology University (NSTU).  </h4><br> 
+						<h5>  <p>Welcome to the website of Electrical and Electronic Engineering (EEE) Department of Noakhali Science and Technology University (NSTU). </p> </h5> 
 						<p>The department has started its academic activities in B.Sc. (Eng.) in Electrical and Electronic Engineering program from January 2017. <br> <br> 
 
 It is my great pleasure to state that the department has well-qualified faculty members with professional experience in international arena. The faculty members are actively engaged in research in a diverse fields of Engineering, Science and Technology. The department has well equipped laboratories in all major areas of EEE for making students practically sound. We review the course curricula to update with the latest trends in EEE technologies on a regular basis. <br> <br> 
@@ -515,11 +511,18 @@ Last Updated: February 28, 2019
 		 
 	
 	
-<! position_fixed--------->
+<! position_fixed-and-menu--------->
 				
  <script src="js/jquery-latest.min.js" type="text/javascript"></script>	
-		 
-	
+
+ 	
+<! position_fixed-and-menu--------->
+
+ <!Slide--->
+  <script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+    		 
+	<!Slide--->
+ 
 		
 	<script type="text/javascript">
 $(function(){
@@ -538,38 +541,23 @@ $(function(){
   });
 
 
- </script>
+
+
+
+  
+  
+  
+	 $(window).load(function() {
+        $('#slider').nivoSlider();
+    }); 
 	 
 	
+
+
 	
-	
-<! position_fixed--------->
-	
-	
-	
-		
-
-
-
-
-
-			
-		
-			
-			 <script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
-    <script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
-    <script type="text/javascript">
-    $(window).load(function() {
-        $('#slider').nivoSlider();
-    });
-    </script>
-	 		
- 		
-	<!<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.0.min.js">
-
-<script type="text/javascript">
-
-var menu = $(".menu");
+	 
+	 
+	var menu = $(".menu");
 $(window).resize(function(){
 	$(".menu-toggle").removeClass("active");
 	if($(window).innerWidth() > 980){
@@ -595,11 +583,7 @@ $(".open-submenu").click(function(){
 	<!Menu-Menu------------------------------------------------------------------------------------------------->
 
 	
-
-
-
-
-
+ 
  
 	</body>
 </html>
