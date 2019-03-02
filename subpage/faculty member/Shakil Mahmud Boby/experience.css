@@ -1,0 +1,16 @@
+table,th,td{
+	 border:1px solid #052657;
+ 
+}
+th,td{
+	padding:15px; 
+}
+table{
+	width:100%
+}
+.research_ex{
+	margin-top:20px;
+}
+.research_ex_right{
+	margin-left:166px
+}

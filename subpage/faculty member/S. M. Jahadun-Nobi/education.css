@@ -1,0 +1,31 @@
+/*table,th,td{
+	 border:1px solid #052657;
+ 
+}
+th,td{
+	padding:15px; 
+}
+*/
+/*S. M. Jahadun-Nobi */
+
+
+td{
+	padding:10px; 
+	padding-left:80px;
+}
+ 
+.edu_color td{
+	padding-left:25px;
+ valign:top ;
+padding-right:5px; 
+	
+}	
+ .fm_color1{
+	 background-color:#B9F6E9
+ ;
+ }.fm_color2{
+	 background-color:#DAF3F3;
+ }.fm_color3{
+	 background-color:#EAFDFF;
+ }
+ 

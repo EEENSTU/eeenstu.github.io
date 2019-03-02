@@ -1,0 +1,22 @@
+.edu_border table,th,td{
+	 border:1px solid #052657;
+ 
+}
+th,td{
+	padding:15px; 
+}
+ .fm_color1{
+	 background-color:#B9F6E9
+ ;
+ }.fm_color2{
+	 background-color:#DAF3F3;
+ }.fm_color3{
+	 background-color:#EAFDFF;
+ }
+  
+  .edu_color  {
+	  padding:5px;
+	   padding-top:10px;
+	   padding-bottom:10px;
+	   margin-bottom:30px;
+	   margin-top:20px;
